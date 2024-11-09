@@ -5,11 +5,11 @@ local spawnConnections = {}
 local utils = {}
 
 
-local canLoadAether = true--getgenv().EOIFHEIUFHu0e98fekwjfbnweiurghfueiyrgy9re088ug
+local canLoadDowerWare = true--getgenv().EOIFHEIUFHu0e98fekwjfbnweiurghfueiyrgy9re088ug
 local user = "Developer"
 local hurttime = 0
 
-if not canLoadAether then return end
+if not canLoadDowerWare then return end
 
 Players = game:GetService("Players")
 Lighting = game:GetService("Lighting")
